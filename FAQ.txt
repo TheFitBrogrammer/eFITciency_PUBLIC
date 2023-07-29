@@ -1,0 +1,39 @@
+# eFITciency App FAQ
+
+## Getting Started
+
+### How do I download and install eFITciency?
+
+eFITciency is available for download on the App Store. Just search for "eFITciency" and click "Get" to download.
+
+### Is eFITciency free?
+
+Yes, eFITciency is completely free to use and does not contain any in-app advertisements.
+
+## Features
+
+### What can I track with eFITciency?
+
+With eFITciency, you can easily track your workouts, body stats, diet, and goals/PRs. 
+
+### How do I log a workout?
+
+To log a workout, go to the 'Workouts' tab and click 'Add Workout' in the upper right-hand corner, then add a Workout Day using the same method. You can then input your exercises, reps, sets, and weight.
+
+### How do I track my diet?
+
+To track your diet, go to the 'Diet' tab and click 'Add Meal'. You can then add and/or save foods and their nutritional values.
+
+## Troubleshooting
+
+### What should I do if the app crashes?
+
+If the app crashes, try restarting it and your device. If the problem persists, please uninstall and reinstall the app, or send a report to the developer at [efitciency.bugreport.com](mailto:efitciency.bugreport.com). 
+
+### I found a bug, where should I report it?
+
+If you've found a bug, please email us at [efitciency.bugreport.com](mailto:efitciency.bugreport.com) with a description of the issue and any relevant screenshots.
+
+## Contact
+
+For further assistance or enquiries, feel free to reach us at [support@email.com](mailto:support@email.com).
